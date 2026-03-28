@@ -1,0 +1,7 @@
+https://vodafonek8s.s3.ap-south-1.amazonaws.com/Day5.zip
+
+https://vodafonek8s.s3.ap-south-1.amazonaws.com/Lab+2+-ArgoCD+Installation+on+kubeadm+Cluster.docx
+
+Use below command for this error - The CustomResourceDefinition "applicationsets.argoproj.io" is invalid: metadata. 
+kubectl apply --server-side --force-conflicts -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
+
